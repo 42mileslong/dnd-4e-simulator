@@ -1,5 +1,5 @@
 /**
- * Created by 95020065 on 9/11/2014.
+ * @author Rafi Long
  */
 public class Display {
 }
